@@ -32,7 +32,7 @@ Full-stack Web Development with modern frameworks.
 AI & ML integration for IoT and automation projects.
 
 📫 Connect with Me
-LinkedIn: Saurav
+LinkedIn: https://www.linkedin.com/in/saurav‑suman‑9740a5270
 Email: saurav.suman.adtu@gmail.com
 WhatsApp: +917636854312
 
