@@ -1,40 +1,30 @@
-Hi there, I’m Saurav Rai 👋
-Welcome to my GitHub! I’m a passionate Founder, IoT Enthusiast, and Software Developer from Guwahati, Assam. I love building innovative solutions that merge hardware and software, with a focus on real-world impact.
+Hi there 👋 I'm Saurav
 
-💼 About Me
-Founder of Smart Bharat Automation – developing IoT-based monitoring systems.
-Skilled in C++, Java, JavaScript, Node.js, HTML, CSS and full-stack development.
-Strong problem-solving background with DSA + LeetCode experience.
-Experienced in designing real-time systems and IoT prototypes showcased at international science festivals.
-Always exploring new tech, building side projects, and contributing to open-source.
+Software Engineer focused on **C++ systems programming, backend development, and database systems**.
 
-⚡ Skills
-Programming & Development:
-C++, Java, Node.js, JavaScript, HTML5, CSS3, React.js
-Concepts:
-Data Structures & Algorithms, Object-Oriented Programming, REST APIs, Async Programming
-IoT & Hardware:
-Smart data loggers, Temperature & Humidity Monitoring Systems, Prototype Design
-Other Tools:
-Git & GitHub, VS Code, Postman, SQL
+I enjoy building efficient and scalable systems with strong foundations in **Data Structures, Operating Systems, and Database Design**.
 
-🚀 Projects
-Here are a few highlights from my GitHub:
+## 🚀 Technical Interests
+- Systems Programming (C++)
+- Backend Engineering
+- Operating Systems & Concurrency
+- Database Systems (PostgreSQL)
+- Data Structures & Algorithms
 
-Mini Git – A Git-like version control system built in C++.
-Real-Time Delivery Management System – Backend simulation with multithreading, order lifecycle, and delivery partner matching.
-IoT Monitoring Systems – Smart devices for temperature, humidity, and real-time data logging.
-(Check my repositories for more projects and open-source contributions.)
+## 💻 Projects
 
-🌱 Currently Learning
-Advanced System Design for scalable backend systems.
-Full-stack Web Development with modern frameworks.
-AI & ML integration for IoT and automation projects.
+### Grocery Order & Inventory Management System
+C++ | PostgreSQL | Linux  
+A CLI-based backend system that simulates real-world order processing.
 
-📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/saurav‑suman‑9740a5270
-Email: saurav.suman.adtu@gmail.com
-WhatsApp: +917636854312
+Features:
+- ACID-compliant transaction handling
+- Optimized PostgreSQL queries for faster inventory lookup
+- Modular C++ architecture separating business logic and database layer
 
-⚡ Fun Fact
-I’m always up for building things that make life easier—whether it’s a tiny IoT device or a full-stack web solution!
+## 🛠 Tech Stack
+C++ • SQL • PostgreSQL • Linux • Git • Data Structures • Algorithms
+
+## 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/saurav-suman-9740a5270/  
+LeetCode: https://leetcode.com/u/saurav_suman_dev/
